@@ -8,7 +8,8 @@ To Use SD Calc
 For Eclipse:
   1. Download the zip AbdelAalSteam.zip (not folder!)
   2. Select File > Import > General > Projects from Folder or Archive > AbdelAalSteam and press open
-  3. Begin by pressing Run on the WelcomePage
+  3. Then go to the project folder > src > abdelaalsteam > double click WelcomePage
+  4. Begin by pressing Run on the WelcomePage
 
 Otherwise:
   1. Download the zip AbdelAalSteam.zip (not folder!)
