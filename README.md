@@ -4,5 +4,7 @@ IB HL Computer Science 2 & AP CSA Projects
 
 Notes:
 To Use SD Calc
-  1. Download folder
-  2. Begin on Welcome Page
+  1. Download the zip AbdelAalSteam.zip (not folder!)
+  2. Unzip the folder
+  3. When openeing the project in the IDE, follow this path/directory: AbdelAalSteam > src > abdelaalsteam; then select open
+  4. Begin by pressing start on the WelcomePage
